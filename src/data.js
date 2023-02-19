@@ -277,6 +277,9 @@ export const plans = [
 const Member1 = require('./images/Members/KlayvemGuimaraes.jpg')
 const Member2 = require('./images/Members/BiancaRamaldes.jpg')
 const Member3 = require('./images/Members/LuisFelipe.jpg')
+const Member4 = require('./images/Members/LeonardoNascimento.jpg')
+const Member5 = require('./images/Members/ErickPereira.jpg')
+const Member6 = require('./images/Members/StephanyMartins.png')
 
 
 export const trainers = [
@@ -298,7 +301,31 @@ export const trainers = [
         id: 3,
         image: Member3,
         name: 'Luís Felipe',
-        job: 'Idealizador',
+        job: 'Membro',
         socials: ['https://linkedin.com/', 'https://mail.google.com/']
+    },
+    {
+        id:4, 
+        image: Member4,
+        name: 'Leonardo Rocha',
+        job: 'Diretor de ideias',
+        socials: ['https://linkedin.com/','https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDCMhTWxMdLrqPFMNjlxzNPSRqwQqLxgrMCsxThHJwmxrwdPDwnZWhWXTvPxsLSMfkPDq']
+
+    },
+    {
+        id:5, 
+        image: Member5,
+        name: 'Erick Pereira',
+        job: 'Entrevistador',
+        socials: ['https://linkedin.com/','https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDCMhTWxMdLrqPFMNjlxzNPSRqwQqLxgrMCsxThHJwmxrwdPDwnZWhWXTvPxsLSMfkPDq']
+
+    },
+    {
+        id:6, 
+        image: Member6,
+        name: 'Stehany Martins',
+        job: 'Mentora',
+        socials: ['https://linkedin.com/','https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDCMhTWxMdLrqPFMNjlxzNPSRqwQqLxgrMCsxThHJwmxrwdPDwnZWhWXTvPxsLSMfkPDq']
+
     }
 ]
