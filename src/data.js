@@ -279,7 +279,7 @@ const Member2 = require('./images/Members/BiancaRamaldes.jpg')
 const Member3 = require('./images/Members/LuisFelipe.jpg')
 const Member4 = require('./images/Members/LeonardoNascimento.jpg')
 const Member5 = require('./images/Members/ErickPereira.jpg')
-const Member6 = require('./images/Members/StephanyMartins.png')
+const Member6 = require('./images/Members/StephanyMartins.jpg')
 
 
 export const trainers = [
