@@ -24,11 +24,10 @@ export const About = () => {
         <div className='about__section-content'>
           <h1>Quem somos?</h1>
           <p>
-            Nós somos a Econochange, uma startup focada em educação financeira para jovens!    
-            Com uma linguagem moderna e divertida, queremos passar conhecimento de forma simples e empolgante, com memes, posts, cursos e muito mais!
+            Então, sabe quando você precisa comprar aquela make ou aquela camisa do seu time
+            favorito mas não soube como organizar o seu dinheiro e gastou tudo? Estamos aqui para resolver o seu problema!
           </p>
-            Criada com o intuito de educar jovens, desbancamos muitas equipes e agora estamos na final do desafio liga jovem, organizado pela {Sebrae} e {IdeiasdeFuturo}.
-         
+            Criada para ajudar vocês jovens, estamos na semifinal do Desafio Liga Jovem, organizado pela {Sebrae} e {IdeiasdeFuturo}.
         </div>
       </div>
     </section>
@@ -38,8 +37,8 @@ export const About = () => {
         <div className='about__section-content'>
           <h1>Nossa missão</h1>
           <p>
-            Nosso compromisso é orientar e ajudar os jovens brasileiros á se organizarem financeiramente, visto que cerca de <strong><span>90%</span></strong> dos brasileiros <strong><span>admitem</span></strong> terem
-            necessidade de educação financeira, aponta estudo em parceria com a Xpeed, braço de educação financeira da XP investimentos.
+          Nossa missão é ensinar á vocês tudo sobre educação financeira para conseguir salvar parte do seu dinheiro! Já que <strong><span>90%</span></strong> dos brasileiros
+          segundo estudo em parceria com a XPEED, têm dificuldade em organizar sua bufunfa! Muita gente né?? 
           </p>
 
           <p>
@@ -61,11 +60,8 @@ export const About = () => {
         <div className='about__section-content'>
           <h1>O que pretendemos </h1>
           <p>
-            Nossa pretenção neste momento, é começar o desenvolvimento do aplicativo visto que já temos o protótipo em funcionamento.
-          </p>
-
-          <p>
-            
+           Sabendo dessas imensas dificuldades com o dinheiro, decidimos criar um aplicativo que consiga prender
+           esse danadinho dentro do seu bolso! Além de te ajudar a ser organizado financeiramente com as suas metas!           
           </p>
 
           <p>
