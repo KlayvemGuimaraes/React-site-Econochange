@@ -19,8 +19,7 @@
 #icons-money:hover {
     transition: var(--transition);
     border-radius: 22px;
-    border: 1px solid;
-    opacity: 1;
+    opacity: 0.9;
 }
 
 

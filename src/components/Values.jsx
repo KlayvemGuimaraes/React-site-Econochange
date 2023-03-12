@@ -1,5 +1,5 @@
-import Image from '../images/Wallpaper/WallpaperEcono.png'
-import ImageScreen from '../images/Wallpaper/WallpaperScreen.png'
+import Image from '../images/Wallpaper/Backgorund_screen1.png'
+import ImageScreen from '../images/Wallpaper/Backgorund2.png'
 import SectionHead from './SectionHead'
 import {GiCutDiamond} from 'react-icons/gi'
 import {values} from '../data'

@@ -48,7 +48,7 @@ export const programs = [
         id: 1,
         icon: <FcMindMap/>,
         title: "Conhecimento",
-        info: "O conhecimento é a chave de tudo, acreditamos firmemente nisso e temos como objetivo ajudar o máximo de pessoas.",
+        info: "Só o conhecimento é capaz de vencer a ignorância. Baseado nisso queremos tornar você jovem, em um sábio experiente!",
         path: "http://localhost:3000/about"
     },
     {
@@ -85,7 +85,7 @@ export const values = [
     {
         id: 1,
         icon: <GiTalk/>,
-        title: "Comunicação jovial",
+        title: "Comunicação Acessível",
         desc: "Ter uma comunicação divertida e objetiva é essencial para um ecossistema, por isso preservamos muito isso."
     },
     {
