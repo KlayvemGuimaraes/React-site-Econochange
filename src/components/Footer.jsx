@@ -27,7 +27,6 @@ const Footer = () => {
             <article>
                 <h4>Links</h4>
                 <Link to="/about">Sobre</Link>
-                <Link to="/plans">Planos</Link>
                 <Link to="/trainers">Membros</Link>
                 <Link to="/gallery">Galeria</Link>
                 <Link to="/contact">Contato</Link>

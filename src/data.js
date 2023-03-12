@@ -23,10 +23,7 @@ export const links = [
         name: "Galeria",
         path: '/gallery'
     },
-    {
-        name: "Planos",
-        path: '/plans'
-    },
+
     {
         name: "Membros",
         path: '/trainers'
